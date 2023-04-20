@@ -1,0 +1,10 @@
+method
+1.goto windows powershell or command prompt and open as adminstrator.
+2. type - diskpart
+3.type- list disk. l
+all disk list will show
+4. select disk by select disk . example - select disk 1
+5. type - clean.
+6. goto computer management.
+7. click - disk management
+8. go to disk and click to your disk and new.next- next next ..........
